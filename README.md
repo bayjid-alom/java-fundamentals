@@ -5,16 +5,30 @@
 > 📦 JDK Installation • VS Code Extensions • Terminal Commands • Navigation • Compile & Run
 
 ---
-<br>
 
 
 
 
-## 🚀 About This Repository
+
+## ✔️ Java Syntax
+
+```java
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!");
+    }
+}
+```
+
+
+
+
+
+## 🎯 Repository Purpose
 A personal Java learning journey covering fundamentals, syntax, OOP concepts, practice programs, and problem-solving. This repository documents my progress through structured notes, examples, and hands-on coding while building a strong foundation in Java programming.
 
 ---
-<br>
+
 
 
 
@@ -106,7 +120,6 @@ javac 21.x.x
 </details>
 
 ---
-<br>
 
 
 
@@ -118,7 +131,8 @@ javac 21.x.x
 
 
 
-# 🛠️ Terminal Commands
+
+## 🛠️ Terminal Commands
 
 > **Open the project folder in Git Bash before running any commands.**
 
@@ -186,7 +200,9 @@ java HelloWorld
 
 
 
----
+
+
+
 <details>
 <summary><b>💡 Quick Terminal Cheat Sheet</b></summary>
 
@@ -229,8 +245,6 @@ javac HelloWorld.java && java HelloWorld
 ```
 
 </details>
-
----
 <br>
 
 
@@ -282,7 +296,6 @@ java HelloWorld
 
 </details>
 
----
 <br>
 
 
@@ -343,7 +356,6 @@ java HelloWorld.java
 
 </details>
 
----
 <br>
 
 
@@ -395,7 +407,6 @@ java HelloWorld.java
 
 </details>
 
----
 <br>
 
 
